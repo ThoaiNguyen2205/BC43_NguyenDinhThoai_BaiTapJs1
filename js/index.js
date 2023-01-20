@@ -71,8 +71,8 @@ function tinhChuViDienTich(){
     //Process:
     chuVi = (chieuDai + chieuRong) *2;
     dienTich = chieuDai * chieuRong ;
-    document.getElementById('chuVi').innerHTML='Chu Vi : ' +chuVi;
-    document.getElementById('dienTich').innerHTML ='Diện Tích : ' + dienTich;
+    document.getElementById('chuVi').innerHTML='Chu Vi : ' +chuVi + ' Mét';
+    document.getElementById('dienTich').innerHTML ='Diện Tích : ' + dienTich + ' M2';
 }
 
 // Bài tập 5: Tính tổng 2 ký số của số cần nhập 
