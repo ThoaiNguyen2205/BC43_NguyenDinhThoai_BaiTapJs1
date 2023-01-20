@@ -24,7 +24,7 @@ function trungBinh(){
       soThuc3 : number
       soThuc4 : number
       soThuc5 : number */
-    var soThuc1 = Number (document.getElementById('soThuc1').value ) ;
+    var soThuc1 = Number(document.getElementById('soThuc1').value) ;
     var soThuc2 = Number(document.getElementById('soThuc2').value) ;
     var soThuc3 = Number(document.getElementById('soThuc3').value) ;
     var soThuc4 = Number(document.getElementById('soThuc4').value) ;
